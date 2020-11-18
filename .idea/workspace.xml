@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71e4efd1-b873-4d76-b044-85861cbc8f63" name="Default Changelist" comment="" />
+    <list default="true" id="71e4efd1-b873-4d76-b044-85861cbc8f63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Travis" beforeDir="false" afterPath="$PROJECT_DIR$/Travis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travis/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travis/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travis/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travis/build.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
