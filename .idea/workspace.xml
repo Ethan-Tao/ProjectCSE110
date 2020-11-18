@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e4efd1-b873-4d76-b044-85861cbc8f63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Travis" beforeDir="false" afterPath="$PROJECT_DIR$/Travis" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travis/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travis/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travis/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travis/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +70,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CelsiusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
       <extension name="coverage">
@@ -121,7 +129,7 @@
       <updated>1604520870050</updated>
       <workItem from="1604520871111" duration="2780000" />
       <workItem from="1605675743280" duration="3867000" />
-      <workItem from="1605729736397" duration="1784000" />
+      <workItem from="1605729736397" duration="2457000" />
     </task>
     <servers />
   </component>
